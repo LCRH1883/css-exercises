@@ -1,0 +1,26 @@
+/* style.css */
+p {
+  background-color: lightcoral;
+  font: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+div {
+  color: blue;
+  font-size: 32px;
+}
+.first {
+    font-size: 24px;    
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
